@@ -1,0 +1,7 @@
+{
+  "name": "Real-Time Dark Chat",
+  "description": "High-performance real-time chat with Firebase Realtime Database, peer-to-peer WebRTC voice and video calling, live camera capture, voice notes, and room moderation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
